@@ -1,1 +1,2 @@
 # MPOS
+# Mobile POS Project
